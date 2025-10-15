@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: gemini
-        image: trainwithshubham/gemininip:v1
+        image: johncorner158/geminiimage:v1
         ports:
         - containerPort: 3000
         resources:
